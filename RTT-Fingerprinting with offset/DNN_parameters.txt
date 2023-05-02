@@ -1,0 +1,28 @@
+Units in the first hidden layer: 256
+Dropout rate in the first hidden layer: 0.3
+
+Number of hidden layers: 4
+Units in the second hidden layer: 112
+Activation function in the second hidden layer: relu
+Dropout rate in the second hidden layer: 0.4
+
+
+Units in the third hidden layer: 112
+Activation function in the third hidden layer: tanh
+Dropout rate in the third hidden layer: 0.3
+
+Units in the fourth hidden layer: 48
+Activation function in the fourth hidden layer: tanh
+Dropout rate in the fourth hidden layer: 0.3
+
+Units in the fifth hidden layer: 32
+Activation function in the fifth hidden layer: relu
+Dropout rate in the fifth hidden layer: 0.0
+
+
+Learning rate: 0.001
+
+
+
+
+
